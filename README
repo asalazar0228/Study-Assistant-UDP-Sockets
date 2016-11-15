@@ -1,1 +1,1 @@
-Hi
+In order to use this source code on your respective machine you need to have Qt installed on your machine. When starting a project make sure to check all three platforms (Desktop, ios and android) if you would like it to be cross platform. 
